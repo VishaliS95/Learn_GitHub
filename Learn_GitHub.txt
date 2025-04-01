@@ -15,3 +15,5 @@ Author : Vishali
 6. Adding audio call
 
 7. Adding video call
+
+8. Adding status feature
